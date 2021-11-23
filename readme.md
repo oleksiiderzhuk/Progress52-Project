@@ -1,3 +1,5 @@
+php artisan make:model Role -m, edit role table.
+
 manual creating admin and users blades
 
 php artisan make:auth
