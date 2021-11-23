@@ -1,3 +1,7 @@
+manual creating admin and users blades
+
+php artisan make:auth
+
 php artisan migrate
 
 reate codehacking DB
