@@ -10,8 +10,7 @@
 | and give it the controller to call when that URI is requested.
 |
 */
-
-// use Illuminate\Routing\Route;
+use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
