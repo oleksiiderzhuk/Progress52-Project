@@ -1,3 +1,9 @@
+>>> $user = App\User::find(1)
+
+php artisan tinker
+
+create user via App
+
 php artisan make:model Role -m, edit role table.
 
 manual creating admin and users blades
